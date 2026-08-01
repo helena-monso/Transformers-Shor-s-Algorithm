@@ -42,10 +42,12 @@ Dependencies include `jax`, `flax`, `optax`, `qiskit`, `scipy`, `pandas`, `matpl
 **1. Generate a new circuit sequence:**
 ```bash
 python VBE_circuits.py
+```
 
 **2. Run a simulation (e.g., factoring N=15):**
 ```bash
 python shor_N15_a4.py
+```
 
 Note: The simulation scripts are heavily optimized for JAX on GPUs. Memory allocation parameters are pre-configured at the top of each script to prevent OOM errors during exact matrix generation.
 
@@ -53,5 +55,5 @@ Note: The simulation scripts are heavily optimized for JAX on GPUs. Memory alloc
 ```bash
 python plot_qft.py
 python plots_modexp_shor.py
-
+```
 
