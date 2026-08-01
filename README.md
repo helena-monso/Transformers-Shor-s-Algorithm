@@ -1,4 +1,4 @@
-# Probabilistic Simulation of Deep Quantum Circuits: Applications to Shor's Algorithm
+# Probabilistic Simulation of Deep Quantum Circuits and Applications to Shor's Algorithm
 
 This repository contains the codebase for the master's thesis: *Probabilistic Simulation of Deep Quantum Circuits and Applications to Shor's Algorithm*. 
 
